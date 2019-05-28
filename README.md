@@ -1,7 +1,7 @@
 Instacart User Repurchases
 =======================
 
-##Goal
+##Goal . 
 Predict which products in user's order history will be repurchased in their next order
 
 https://www.kaggle.com/c/instacart-market-basket-analysis
